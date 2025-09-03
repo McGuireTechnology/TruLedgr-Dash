@@ -1,2 +1,0 @@
-# TruLedgr-Dash
-TruLedgr Dashboard
