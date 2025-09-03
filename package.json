@@ -1,0 +1,21 @@
+{
+	"name": "truledgr-dash",
+	"version": "1.0.0",
+	"description": "TruLedgr internal dashboard sample (Vite + Vue 3 + TypeScript)",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"test": "vitest"
+	},
+	"dependencies": {
+		"vue": "^3.4.0"
+	},
+	"devDependencies": {
+		"@vitejs/plugin-vue": "^5.0.0",
+		"typescript": "^5.0.0",
+		"vite": "^5.0.0",
+		"vitest": "^1.0.0",
+		"@vue/test-utils": "^2.4.0"
+	}
+}
